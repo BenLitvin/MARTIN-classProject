@@ -24,6 +24,8 @@ const questions = [
   },
 ]
 
+
+//unnecessary part - will be removed
 const interviewers = [
   {
     id: "John",
